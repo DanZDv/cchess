@@ -2,7 +2,7 @@
 #include <gtk/gtk.h>
 
 int main() {
-  printf("Sanity Check \n");
+  printf("Sanity Check, fixing branches\n");
 
   return 0;
 }
