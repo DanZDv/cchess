@@ -2,7 +2,7 @@
 #include <gtk/gtk.h>
 
 int main() {
-  printf("Hello world!\n");
+  printf("Sanity Check \n");
 
   return 0;
 }
