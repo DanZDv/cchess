@@ -1,8 +1,8 @@
 # c_chess
 
-# Project Overview:
-# This is a personal project with many learning objectives, the goal is to create a simple Waylan GUI Chess application using C.
-# I intend to document my progress through GIT commits as I learn.
+Project Overview:
+This is a personal project with many learning objectives, the goal is to create a simple Waylan GUI Chess application using C.
+I intend to document my progress through GIT commits as I learn.
 
 # Learning Objectives:
 # Familiarize myself with NVim, TMUX, and Linux development in general
