@@ -2,7 +2,7 @@
 
 # Project Overview:
 
-This is a personal project with many learning objectives, the goal is to create a simple Waylan GUI Chess application using C.
+This is a personal project with many learning objectives, the goal is to create a simple GUI Chess application using C.
 I intend to document my progress through GIT commits as I learn.
 
 
